@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var ch=document.getElementById("ch").value;
+                // alert(ch);
+                if(ch=="a" || ch=='A')
+                {
+                    document.getElementById("res").innerHTML="vowel";
+                }
+                else if(ch=='e' || ch=='E')
+                {
+                    document.getElementById("res").innerHTML="vowel";
+                }
+                else if(ch=='i' || ch=='I')
+                {
+                    document.getElementById("res").innerHTML="vowel";
+                }
+                else if(ch=='o' || ch=='O')
+                {
+                    document.getElementById("res").innerHTML="vowel";
+                }
+                else if(ch=='u' || ch=='U')
+                {
+                    document.getElementById("res").innerHTML="vowel";
+                }
+                else
+                {
+                    document.getElementById("res").innerHTML="not a vowel";
+                }
+            }
+        </script>
+    </head>
+    <body>
+        Enter any character: <input type="text" id="ch"/><br><br>
+        <input type="button" value="Check" onclick="dis();"/><br><br>
+        Result: &nbsp; <span id="res"></span>
+    </body>
+</html> 
