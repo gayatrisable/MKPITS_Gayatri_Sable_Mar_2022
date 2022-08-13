@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var l=parseInt(document.getElementById("len").value);
+                var b=parseInt(document.getElementById("breadth").value);
+                var h=parseInt(document.getElementById("height").value);
+                var volume=l*b*h;
+                document.getElementById("res").innerHTML=volume;
+            }
+        </script>
+    </head>
+    <body>
+        Enter length: <input type="text" id="len"> <br><br>
+        Enter breadth: <input type="text" id="breadth"> <br><br>
+        Enter height: <input type="text" id="height"> <br><br>
+        <input type="button" value="Find" onclick="dis();"><br><br>
+        Area of volume: <span id="res"></span>
+    </body>
+</html>
