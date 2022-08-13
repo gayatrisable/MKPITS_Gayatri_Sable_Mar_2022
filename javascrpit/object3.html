@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>product</title>
+</head>
+<body>
+    <script>
+        function display()
+        {
+        var i=document.getElementById("t1").value;
+        var j=document.getElementById("t2").value;
+        var k=document.getElementById("t3").value;
+        
+        product={id:i,name:j,price:k};
+        // document.write(emp.id + emp.name + emp.salary);
+        document.getElementById("s1").innerText=product.id;
+        document.getElementById("s2").innerText=product.name;
+        document.getElementById("s3").innerText=product.price;
+        }
+        </script>
+        
+        <form>
+        enter product id : <input type=text id="t1" /><br>
+        enter product name : <input type=text id="t2" /><br>
+        enter product price : <input type=text id="t3" /><br><br>
+        <input type=button onclick="display();" value=show><br><br>
+        product id : <span id="s1" ></span> <br>
+        product name: <span id="s2" ></span> <br>
+        product price : <span id="s3" ></span> <br>
+        
+        </form>
+</body>
+</html>
