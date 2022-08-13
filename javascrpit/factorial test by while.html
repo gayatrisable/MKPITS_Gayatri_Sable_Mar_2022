@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var n=document.getElementById("num").value;
+                var i=n,fact=1;
+                while(i>=1)
+                {
+                    fact=fact*i;   
+                    i--;
+                }  
+                document.getElementById("res").innerHTML=fact;            
+            }
+
+        </script>
+    </head>
+    <body>
+        Enter any number: <input type="text" id="num"><br><br>
+        <input type="button" value="Check" onclick="dis();"><br>
+        Factorial:<span id="res"></span>
+    </body>
+</html>
