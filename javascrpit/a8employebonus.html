@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var emp_name=document.getElementById("name").value;
+                var desi=document.getElementById("des").value;
+                var bsal=parseInt(document.getElementById("salary").value);
+
+                document.getElementById("empname").innerHTML=emp_name;
+
+                if(desi=='manager')
+                {
+                   totsal=bsal+5000;
+                   document.getElementById("total").innerHTML=totsal;
+                   document.getElementById("bonus").innerHTML="5000";
+                }
+                else if(desi=='clerk')
+                {
+                   totsal=bsal+2000;
+                   document.getElementById("total").innerHTML=totsal;
+                   document.getElementById("bonus").innerHTML="2000";
+                }
+                else if(desi=='peon')
+                {
+                   totsal=bsal+1000;
+                   document.getElementById("total").innerHTML=totsal;
+                   document.getElementById("bonus").innerHTML="1000";
+                }
+                else
+                {
+                    document.getElementById("inval").innerHTML="Select proper designation";
+                }
+            }
+        </script>
+    </head>
+    <body>
+        Enter employee name: <input type="text" id="name"><br><br>
+        Enter Designation: <input type="text" id="des"><br><br>
+        Enter basic salary: <input type="text" id="salary"><br><br>
+        <input type="button" value="Print" onclick="dis();"><br>
+
+        
+        Employee name: <span id="empname"></span> <br>
+        Total salary: <span id="total"></span> <br>
+        Bonus: <span id="bonus"></span> <br>
+    </body>
+</html>
