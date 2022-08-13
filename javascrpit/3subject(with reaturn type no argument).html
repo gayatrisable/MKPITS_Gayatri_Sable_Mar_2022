@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>students marks percentage</title>
+</head>
+
+<body>
+    <form name="f1">
+        Enter 1st subject marks: <input type="text" name="m1">
+        <br><br>
+        Enter 2nd subject marks: <input type="text" name="m2">
+        <br><br>
+        Enter 3rd subject marks: <input type="text" name="m3">
+        <br><br>
+        <input type="button" value="click" id=""
+            onclick="getresult()" /><br><br>
+        total: <span id="tot"></span><br><br>
+        percentage: <span id="per"></span>
+    </form>
+
+    <script>
+        let total;
+        function getresult() {
+          
+             total = gettotal();
+            document.getElementById("tot").innerText = total;
+            let per = getpars();
+            document.getElementById("per").innerText = per;
+
+        }
+        function gettotal() {
+            let a= document.f1.m1.value;
+           let b= document.f1.m2.value;
+           let c= document.f1.m3.value;
+            let total = parseInt(a) + parseInt(b) + parseInt(c);
+            return total;
+        }
+        function getpars() {
+            let t=document.getElementById("tot").innerText = total;
+            let pars = (t/ 300.0) * 100.0;
+            return pars;
+
+
+        }
+
+    </script>
+</body>
+
+</html>
