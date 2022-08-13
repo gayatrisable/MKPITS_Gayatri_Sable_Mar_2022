@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>numbers equal or not</title>
+</head>
+<body>
+    <form name="f">
+    <label for="num1">Enter first number</label>
+<div>
+    <input type="text" id="num1" name="t1">
+</div><br>
+<label for="num2">Enter second number</label>
+<div>
+    <input type="text" id="num2" name="t2">
+</div><br>
+<input type="button" value="click" onclick="equal()">
+<br>
+<span id="res"></span>
+</form>
+
+    <script>
+        // let num1;
+        // let num2;
+function equal(){
+  num=display();
+   if(num==1)
+   {
+    document.getElementById("res").innerText= "numbers are equal";
+   }
+   else{
+    document.getElementById("res").innerText="numbers are not equal";
+   }
+}
+function display(){
+    let a=document.f.t1.value;
+    let b=document.f.t2.value;
+    if(a==b){
+        return 1;
+    }
+    else{
+        return 0;
+    }
+}
+    </script>
+</body>
+</html>
