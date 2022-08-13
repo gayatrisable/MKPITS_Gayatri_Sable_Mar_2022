@@ -1,0 +1,23 @@
+<!-- example, we going to count total number of paragraphs used in the document. To do this, we have called the document.getElementsByTagName("p") method that returns the total paragraphs. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paragraph</title>
+</head>
+<body>
+    <script type="text/javascript">
+        function countpara(){
+        var totalpara=document.getElementsByTagName("p");
+        alert("total p tags are: "+totalpara.length);
+        
+        }
+        </script>
+        <p>This is a pragraph</p>
+        <p>Here we are going to count total number of paragraphs by getElementByTagName() method.</p>
+        <p>Let's see the simple example</p>
+        <button onclick="countpara()">count paragraph</button>
+</body>
+</html>
