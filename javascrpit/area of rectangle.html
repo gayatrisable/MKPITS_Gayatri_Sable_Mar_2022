@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var l=parseInt(document.getElementById("len").value);
+                var w=parseInt(document.getElementById("wid").value);
+                var area=l+w;
+                document.getElementById("res").innerHTML=area;
+            }
+        </script>
+    </head>
+    <body>
+        Enter length: <input type="text" id="len"> <br><br>
+        Enter Width: <input type="text" id="wid"> <br><br>
+        <input type="button" value="Find" onclick="dis();"><br><br>
+        Area of Rectangle: <span id="res"></span>
+    </body>
+</html>
