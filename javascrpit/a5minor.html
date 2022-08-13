@@ -1,0 +1,29 @@
+<!-- wap to accept age from the user and display whether he is minor, adult or old. -->
+<html>
+    <head>
+        <script>
+             function dis()
+            {
+                var a=document.getElementById("age").value;
+                if(a<18) 
+                {
+                    document.getElementById("res").innerHTML="minor";
+                }
+                else if(a>=18 && a<=45) 
+                {
+                    document.getElementById("res").innerHTML="adult";
+                }
+                else  
+                {
+                    document.getElementById("res").innerHTML="old";
+                }
+                
+            }
+        </script>
+    </head>
+    <body>
+        Enter age: <input type="text" id="age"><br><br>
+        <input type="button" value="Find" onclick="dis();"><br><br>
+        <span id="res"></span>
+    </body>
+</html>
