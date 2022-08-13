@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var l=parseInt(document.getElementById("len").value);
+                var b=parseInt(document.getElementById("bre").value);
+                var area=l*b;
+                document.getElementById("res").innerHTML=area;
+            }
+        </script>
+    </head>
+    <body>
+        Enter length: <input type="text" id="len"> <br><br>
+        Enter Breadth: <input type="text" id="bre"> <br><br>
+        <input type="button" value="Find" onclick="dis();"><br><br>
+        Area: <span id="res"></span>
+    </body>
+</html>
