@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shope</title>
+    <script>
+        function dis()
+        {
+            var name=document.getElementById("name").value;
+            var rate=document.getElementById("ra").value;
+            var Quantity=document.getElementById("quan").value;
+            var total=rate*Quantity;
+            document.getElementById("total").innerText=total;
+        }
+    </script>
+</head>
+<body>
+    Product Name : <input type="text" id="name"><br><br>
+    Product rate : <input type="text" id="ra"><br><br>
+    Quantity : <input type="text" id="quan"><br><br>
+        <input type="button" value="Find" onclick="dis();"><br><br>
+        Total Amount:<span id="total"></span><br><br>
+</body>
+</html>
