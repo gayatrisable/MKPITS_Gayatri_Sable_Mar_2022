@@ -1,0 +1,24 @@
+<!-- wap to accept age from the user and display whether he is eligible to vote or not. -->
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var a=document.getElementById("age").value;
+                if(a>=18) //true
+                {
+                    document.getElementById("res").innerHTML="you are eligible";
+                }
+                else //false
+                {
+                    document.getElementById("res").innerHTML="you are not eligible";
+                }
+            }
+        </script>
+    </head>
+    <body>
+        Enter age: <input type="text" id="age"><br><br>
+        <input type="button" value="Find" onclick="dis();"><br><br>
+        <span id="res"></span>
+    </body>
+</html>
