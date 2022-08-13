@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+</html>
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var a=parseInt(document.getElementById("sub1").value);
+                var b=parseInt(document.getElementById("sub2").value);
+                var c=parseInt(document.getElementById("sub3").value);
+                var add=a+b+c;
+                document.getElementById("number").innerHTML=add;
+                var persentage=(add/300)*100;
+                document.getElementById("per").innerHTML=persentage;
+                if(persentage>=85) 
+                {
+                    document.getElementById("res").innerHTML="A+";
+                }
+                else if(persentage>=75) 
+                {
+                    document.getElementById("res").innerHTML="A";
+                }
+                else if(persentage>=55) 
+                {
+                    document.getElementById("res").innerHTML="B";
+                }
+                else if(persentage>=35) 
+                {
+                    document.getElementById("res").innerHTML="C";
+                }
+                else
+                {
+                    document.getElementById("res").innerHTML="fail";
+                }
+            }
+            </script>
+            </head>
+            <body>
+                Maths marks: <input type="text" id="sub1">
+                Physics marks: <input type="text" id="sub2">
+                chemistry marks: <input type="text" id="sub3"><br><br>
+                <input type="button" value="Find" onclick="dis();"><br><br>
+                Sum of three subject: <span id="number"></span><br>
+                persentage:<span id="per"></span><br>
+                Grade:<span id="res"></span>
+    </body>
+</html>
