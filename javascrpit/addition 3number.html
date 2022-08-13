@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var a=parseInt(document.getElementById("a1").value);
+                var b=parseInt(document.getElementById("b1").value);
+                var c=parseInt(document.getElementById("c1").value);
+                var addition=a+b+c;
+                document.getElementById("number").innerHTML=addition;
+            }
+            </script>
+            </head>
+            <body>
+                Enter the 1st number: <input type="text" id="a1">
+                Enter the 2nd number: <input type="text" id="b1">
+                Enter the 3rd number: <input type="text" id="c1"><br><br>
+                <input type="button" value="Find" onclick="dis();"><br><br>
+                Addition of 3 Number: <span id="number"></span><br>
+    </body>
+</html>
