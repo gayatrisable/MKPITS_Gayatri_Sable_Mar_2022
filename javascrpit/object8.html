@@ -1,0 +1,43 @@
+<!-- example of product in form -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        function product(id,name,price)
+        {
+        this.id=id;
+        this.name=name;
+        this.price=price;
+        }
+        
+        function display()
+        {
+        p=new
+        product(document.getElementById("t1").value,document.getElementById("t2").value,document.getElementById("t3").value);
+        
+        document.getElementById("s1").innerText=p.id;
+        document.getElementById("s2").innerText=p.name;
+        document.getElementById("s3").innerText=p.price;
+        }
+        </script>
+        
+        <form>
+        enter product id : <input type=text id="t1" /><br><br>
+        enter product name : <input type=text id="t2" /><br><br>
+        enter product price : <input type=text id="t3" /><br><br>
+
+        <input type=button onclick="display();" value=show><br><br>
+        product id : <span id="s1" ></span> <br><br>
+        product name: <span id="s2" ></span> <br><br>
+        product price : <span id="s3" ></span> <br><br>
+        
+        </form>
+</body>
+</html>
