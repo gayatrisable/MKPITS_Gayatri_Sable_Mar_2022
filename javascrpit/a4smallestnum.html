@@ -1,0 +1,34 @@
+<!--wap to accept 3 numbers and display the smallest number -->
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var a=parseInt(document.getElementById("a1").value);
+                var b=parseInt(document.getElementById("b1").value);
+                var c=parseInt(document.getElementById("c1").value);
+                if(a<b && a<c) 
+                {
+                    document.getElementById("res").innerHTML=a;
+                }
+                else if(b<a && b<c) 
+                {
+                    document.getElementById("res").innerHTML= b;
+                }
+                else 
+                {
+                    document.getElementById("res").innerHTML= c;
+                }
+                
+               
+            }
+            </script>
+            </head>
+            <body>
+                Enter the 1st number: <input type="text" id="a1">
+                Enter the 2nd number: <input type="text" id="b1">
+                Enter the 3rd number: <input type="text" id="c1"><br><br>
+                <input type="button" value="Find" onclick="dis();"><br><br>
+                smaller Number: <span id= "res"></span><br>
+    </body>
+</html>
