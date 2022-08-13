@@ -1,0 +1,32 @@
+ <!-- wap to accept empname and basicsalary calculate hra ie 23% of basicsalary, da ie 43% of basic salarythen calculate total salary =hra+da+basicsalary -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>company</title>
+    <script>
+        function dis()
+        {
+            var name=document.getElementById("name").value;
+            var s_salary=parseInt(document.getElementById("salary").value);
+            var hra=.23*s_salary;
+            var da=.43*s_salary;
+            var total =hra+da+s_salary;
+            document.getElementById("hra").innerText=hra;
+            document.getElementById("da").innerText=da;
+            document.getElementById("total").innerText=total;
+        }
+    </script>
+</head>
+<body>
+    Enter employee Name : <input type="text" id="name"><br><br>
+    Basic Salary : <input type="text" id="salary"><br><br>
+        <input type="button" value="Find" onclick="dis();"><br><br>
+        HRA:<span id="hra"></span><br><br>
+        da:<span id="da"></span><br><br>
+        salary:<span id="total"></span><br><br>
+        <!-- <span id="res"></span> -->
+</body>
+</html>
