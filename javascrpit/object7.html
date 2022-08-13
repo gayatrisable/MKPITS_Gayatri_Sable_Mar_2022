@@ -1,0 +1,38 @@
+<!-- example of object in form -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        function getresult(m1,m2,m3)
+        {
+        var emp=new Object();
+        emp.empno=m1;
+        emp.name=m2;
+        emp.salary=m3;
+        //emp={empno:m1,name:m2,salary:m3}
+        document.getElementById("t").innerHTML=emp.empno;
+        document.getElementById("p").innerHTML=emp.name;
+        document.getElementById("s").innerHTML=emp.salary;
+        }
+        </script>
+        <form name="f1" >
+        enter employee Id : <input type=text name="t1" /><br><br>
+        enter name : <input type=text name="t2" /><br><br>
+        enter salary: <input type=text name="t3" /><br><br>
+        <input type="button" value="click"
+        onclick="getresult(document.f1.t1.value,document.f1.t2.value,document.f1.t3.value)">
+        <br><br>
+        employee Id: <span id="t" ></span> <br><br>
+        empname: <span id="p" ></span> <br><br>
+        salary: <span id="s" ></span> <br><br>
+        
+        </form>
+</body>
+</html>
