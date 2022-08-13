@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <script>
+            function dis(n)
+            {
+                var a=document.getElementById("age").value;
+                if(a>=18) //true
+                {
+                    document.getElementById("res").innerHTML="you are eligible";
+                }
+                else //false
+                {
+                    document.getElementById("res").innerHTML="you are not eligible";
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <form name="f">
+        Enter age: <input type="text" id="age"><br><br>
+        <input type="button" value="Find" onclick="dis(document.f.age.value);"><br><br>
+        <span id="res"></span>
+        </form>
+    </body>
+</html>
