@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var v=parseInt(document.getElementById("volt").value);
+                var i=parseInt(document.getElementById("curr").value);
+                var POWER=v*i;
+                document.getElementById("res").innerHTML=POWER;
+            }
+        </script>
+    </head>
+    <body>
+        Enter voltage: <input type="text" id="volt"> <br><br>
+        Enter current: <input type="text" id="curr"> <br><br>
+        <input type="button" value="Find" onclick="dis();"><br><br>
+        POWER: <span id="res"></span>
+    </body>
+</html>
