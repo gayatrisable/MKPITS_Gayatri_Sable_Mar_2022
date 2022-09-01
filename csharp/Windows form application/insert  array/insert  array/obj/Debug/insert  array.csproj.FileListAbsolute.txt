@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\bin\Debug\insert  array.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\bin\Debug\insert  array.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\bin\Debug\insert  array.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\obj\Debug\insert  array.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\obj\Debug\insert  array.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\obj\Debug\insert__array.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\obj\Debug\insert__array.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\obj\Debug\insert  array.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\obj\Debug\insert  array.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\obj\Debug\insert  array.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\insert  array\insert  array\obj\Debug\insert  array.pdb
