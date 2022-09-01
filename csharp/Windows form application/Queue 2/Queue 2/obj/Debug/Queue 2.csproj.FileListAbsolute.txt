@@ -1,0 +1,8 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Queue 2\Queue 2\bin\Debug\Queue 2.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Queue 2\Queue 2\bin\Debug\Queue 2.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Queue 2\Queue 2\bin\Debug\Queue 2.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Queue 2\Queue 2\obj\Debug\Queue 2.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Queue 2\Queue 2\obj\Debug\Queue 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Queue 2\Queue 2\obj\Debug\Queue 2.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Queue 2\Queue 2\obj\Debug\Queue 2.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Queue 2\Queue 2\obj\Debug\Queue 2.pdb
