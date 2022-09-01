@@ -1,0 +1,8 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\aaray list 1 std info\aaray list 1 std info\bin\Debug\aaray list 1 std info.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\aaray list 1 std info\aaray list 1 std info\bin\Debug\aaray list 1 std info.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\aaray list 1 std info\aaray list 1 std info\bin\Debug\aaray list 1 std info.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\aaray list 1 std info\aaray list 1 std info\obj\Debug\aaray list 1 std info.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\aaray list 1 std info\aaray list 1 std info\obj\Debug\aaray list 1 std info.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\aaray list 1 std info\aaray list 1 std info\obj\Debug\aaray list 1 std info.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\aaray list 1 std info\aaray list 1 std info\obj\Debug\aaray list 1 std info.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\aaray list 1 std info\aaray list 1 std info\obj\Debug\aaray list 1 std info.pdb
