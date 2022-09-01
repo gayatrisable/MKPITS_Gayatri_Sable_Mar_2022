@@ -1,0 +1,8 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Insert  method\Insert  method\bin\Debug\Insert  method.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Insert  method\Insert  method\bin\Debug\Insert  method.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Insert  method\Insert  method\bin\Debug\Insert  method.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Insert  method\Insert  method\obj\Debug\Insert  method.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Insert  method\Insert  method\obj\Debug\Insert  method.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Insert  method\Insert  method\obj\Debug\Insert  method.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Insert  method\Insert  method\obj\Debug\Insert  method.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\Insert  method\Insert  method\obj\Debug\Insert  method.pdb
