@@ -1,0 +1,12 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\bin\Debug\ass.2 product.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\bin\Debug\ass.2 product.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\bin\Debug\ass.2 product.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\obj\Debug\ass.2 product.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\obj\Debug\ass.2 product.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\obj\Debug\ass._2_product.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\obj\Debug\ass._2_product.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\obj\Debug\ass.2 product.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\obj\Debug\ass.2 product.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\obj\Debug\ass.2 product.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\obj\Debug\ass.2 product.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\ass.2 product\ass.2 product\obj\Debug\ass._2_product.Form2.resources
