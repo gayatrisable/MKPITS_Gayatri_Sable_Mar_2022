@@ -1,0 +1,12 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\bin\Debug\ass.1 employee.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\bin\Debug\ass.1 employee.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\bin\Debug\ass.1 employee.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\obj\Debug\ass.1 employee.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\obj\Debug\ass.1 employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\obj\Debug\ass._1_employee.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\obj\Debug\ass._1_employee.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\obj\Debug\ass.1 employee.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\obj\Debug\ass.1 employee.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\obj\Debug\ass.1 employee.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\obj\Debug\ass.1 employee.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\ass.1 employee\ass.1 employee\obj\Debug\ass._1_employee.Form_employee.resources
