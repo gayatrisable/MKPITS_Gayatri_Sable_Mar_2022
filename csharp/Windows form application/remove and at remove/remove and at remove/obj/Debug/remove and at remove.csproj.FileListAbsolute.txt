@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\bin\Debug\remove and at remove.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\bin\Debug\remove and at remove.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\bin\Debug\remove and at remove.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\obj\Debug\remove and at remove.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\obj\Debug\remove and at remove.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\obj\Debug\remove_and_at_remove.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\obj\Debug\remove_and_at_remove.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\obj\Debug\remove and at remove.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\obj\Debug\remove and at remove.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\obj\Debug\remove and at remove.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\windows  form array list\remove and at remove\remove and at remove\obj\Debug\remove and at remove.pdb
