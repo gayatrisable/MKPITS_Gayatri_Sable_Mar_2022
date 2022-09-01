@@ -1,0 +1,8 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\sort list array\sort list array\bin\Debug\sort list array.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\sort list array\sort list array\bin\Debug\sort list array.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\sort list array\sort list array\bin\Debug\sort list array.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\sort list array\sort list array\obj\Debug\sort list array.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\sort list array\sort list array\obj\Debug\sort list array.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\sort list array\sort list array\obj\Debug\sort list array.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\sort list array\sort list array\obj\Debug\sort list array.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\sort list array\sort list array\obj\Debug\sort list array.pdb
