@@ -1,0 +1,8 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\remove method\remove method\bin\Debug\remove method.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\remove method\remove method\bin\Debug\remove method.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\remove method\remove method\bin\Debug\remove method.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\remove method\remove method\obj\Debug\remove method.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\remove method\remove method\obj\Debug\remove method.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\remove method\remove method\obj\Debug\remove method.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\remove method\remove method\obj\Debug\remove method.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\remove method\remove method\obj\Debug\remove method.pdb
