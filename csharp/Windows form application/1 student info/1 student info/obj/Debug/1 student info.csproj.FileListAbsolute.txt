@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\bin\Debug\1 student info.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\bin\Debug\1 student info.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\bin\Debug\1 student info.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\obj\Debug\1 student info.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\obj\Debug\1 student info.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\obj\Debug\_1_student_info.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\obj\Debug\_1_student_info.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\obj\Debug\1 student info.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\obj\Debug\1 student info.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\obj\Debug\1 student info.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\1 student info\1 student info\obj\Debug\1 student info.pdb
