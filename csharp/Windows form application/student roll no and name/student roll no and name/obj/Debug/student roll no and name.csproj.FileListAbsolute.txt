@@ -1,0 +1,8 @@
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\student roll no and name\student roll no and name\bin\Debug\student roll no and name.exe.config
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\student roll no and name\student roll no and name\bin\Debug\student roll no and name.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\student roll no and name\student roll no and name\bin\Debug\student roll no and name.pdb
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\student roll no and name\student roll no and name\obj\Debug\student roll no and name.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\student roll no and name\student roll no and name\obj\Debug\student roll no and name.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\student roll no and name\student roll no and name\obj\Debug\student roll no and name.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\student roll no and name\student roll no and name\obj\Debug\student roll no and name.exe
+C:\Users\GAYATRI\Desktop\windows form\Array list\clsses array list(console)\student roll no and name\student roll no and name\obj\Debug\student roll no and name.pdb
