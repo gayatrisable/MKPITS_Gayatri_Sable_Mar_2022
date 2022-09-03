@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\bin\Debug\3 no gretest number.exe.config
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\bin\Debug\3 no gretest number.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\bin\Debug\3 no gretest number.pdb
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\obj\Debug\3 no gretest number.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\obj\Debug\3 no gretest number.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\obj\Debug\_3_no_gretest_number.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\obj\Debug\_3_no_gretest_number.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\obj\Debug\3 no gretest number.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\obj\Debug\3 no gretest number.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\obj\Debug\3 no gretest number.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\3 no gretest number\3 no gretest number\obj\Debug\3 no gretest number.pdb
