@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\bin\Debug\1 smallest number.exe.config
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\bin\Debug\1 smallest number.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\bin\Debug\1 smallest number.pdb
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\obj\Debug\1 smallest number.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\obj\Debug\1 smallest number.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\obj\Debug\_1_smallest_number.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\obj\Debug\_1_smallest_number.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\obj\Debug\1 smallest number.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\obj\Debug\1 smallest number.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\obj\Debug\1 smallest number.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\1 smallest number\1 smallest number\obj\Debug\1 smallest number.pdb
