@@ -1,0 +1,6 @@
+C:\Users\GAYATRI\Desktop\class library (dll)\dill file\bank\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\class library (dll)\dill file\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\class library (dll)\dill file\bank\bank\bin\Debug\bank.dll
+C:\Users\GAYATRI\Desktop\class library (dll)\dill file\bank\bank\bin\Debug\bank.pdb
+C:\Users\GAYATRI\Desktop\class library (dll)\dill file\bank\bank\obj\Debug\bank.dll
+C:\Users\GAYATRI\Desktop\class library (dll)\dill file\bank\bank\obj\Debug\bank.pdb
