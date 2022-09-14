@@ -1,0 +1,6 @@
+C:\Users\GAYATRI\Desktop\New folder\calculate\calculate\bin\Debug\calculate.dll
+C:\Users\GAYATRI\Desktop\New folder\calculate\calculate\bin\Debug\calculate.pdb
+C:\Users\GAYATRI\Desktop\New folder\calculate\calculate\obj\Debug\calculate.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\New folder\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\New folder\calculate\calculate\obj\Debug\calculate.dll
+C:\Users\GAYATRI\Desktop\New folder\calculate\calculate\obj\Debug\calculate.pdb
