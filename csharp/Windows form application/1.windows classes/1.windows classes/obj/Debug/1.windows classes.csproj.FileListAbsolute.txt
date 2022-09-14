@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\bin\Debug\1.windows classes.exe.config
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\bin\Debug\1.windows classes.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\bin\Debug\1.windows classes.pdb
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\obj\Debug\1.windows classes.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\obj\Debug\1.windows classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\obj\Debug\_1.windows_classes.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\obj\Debug\_1.windows_classes.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\obj\Debug\1.windows classes.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\obj\Debug\1.windows classes.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\obj\Debug\1.windows classes.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\1.windows classes\1.windows classes\obj\Debug\1.windows classes.pdb
