@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\bin\Debug\accept  number print table.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\bin\Debug\accept  number print table.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\bin\Debug\accept  number print table.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\obj\Debug\accept  number print table.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\obj\Debug\accept  number print table.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\obj\Debug\accept__number_print_table.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\obj\Debug\accept__number_print_table.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\obj\Debug\accept  number print table.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\obj\Debug\accept  number print table.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\obj\Debug\accept  number print table.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\accept  number print table\accept  number print table\obj\Debug\accept  number print table.pdb
