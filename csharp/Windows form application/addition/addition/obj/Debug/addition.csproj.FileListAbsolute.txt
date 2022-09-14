@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\bin\Debug\addition.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\bin\Debug\addition.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\bin\Debug\addition.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\obj\Debug\addition.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\obj\Debug\addition.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\obj\Debug\addition.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\obj\Debug\addition.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\obj\Debug\addition.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\obj\Debug\addition.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\obj\Debug\addition.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition\addition\obj\Debug\addition.pdb
