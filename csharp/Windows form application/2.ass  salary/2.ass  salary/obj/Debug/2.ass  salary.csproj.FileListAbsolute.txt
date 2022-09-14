@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\bin\Debug\2.ass  salary.exe.config
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\bin\Debug\2.ass  salary.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\bin\Debug\2.ass  salary.pdb
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\obj\Debug\2.ass  salary.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\obj\Debug\2.ass  salary.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\obj\Debug\_2.ass__salary.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\obj\Debug\_2.ass__salary.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\obj\Debug\2.ass  salary.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\obj\Debug\2.ass  salary.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\obj\Debug\2.ass  salary.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.ass  salary\2.ass  salary\obj\Debug\2.ass  salary.pdb
