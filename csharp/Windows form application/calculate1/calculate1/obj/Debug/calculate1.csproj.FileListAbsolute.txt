@@ -1,0 +1,14 @@
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\bin\Debug\calculate1.exe.config
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\bin\Debug\calculate1.exe
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\bin\Debug\calculate1.pdb
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\bin\Debug\calculate.dll
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\bin\Debug\calculate.pdb
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\obj\Debug\calculate1.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\obj\Debug\calculate1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\obj\Debug\calculate1.Form1.resources
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\obj\Debug\calculate1.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\obj\Debug\calculate1.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\obj\Debug\calculate1.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\obj\Debug\calculate1.csproj.CopyComplete
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\obj\Debug\calculate1.exe
+C:\Users\GAYATRI\Desktop\New folder\calculate1\calculate1\obj\Debug\calculate1.pdb
