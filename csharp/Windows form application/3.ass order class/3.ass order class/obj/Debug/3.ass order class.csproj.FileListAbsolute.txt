@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\bin\Debug\3.ass order class.exe.config
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\bin\Debug\3.ass order class.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\bin\Debug\3.ass order class.pdb
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\obj\Debug\3.ass order class.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\obj\Debug\3.ass order class.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\obj\Debug\_3.ass_order_class.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\obj\Debug\_3.ass_order_class.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\obj\Debug\3.ass order class.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\obj\Debug\3.ass order class.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\obj\Debug\3.ass order class.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\3.ass order class\3.ass order class\obj\Debug\3.ass order class.pdb
