@@ -1,0 +1,14 @@
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\bin\Debug\bank form.exe.config
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\bin\Debug\bank form.exe
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\bin\Debug\bank form.pdb
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\bin\Debug\bank.dll
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\bin\Debug\bank.pdb
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\obj\Debug\bank form.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\obj\Debug\bank form.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\obj\Debug\bank_form.Form1.resources
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\obj\Debug\bank_form.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\obj\Debug\bank form.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\obj\Debug\bank form.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\obj\Debug\bank form.csproj.CopyComplete
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\obj\Debug\bank form.exe
+C:\Users\GAYATRI\Desktop\class library (dll)\windows form\bank form\bank form\obj\Debug\bank form.pdb
