@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\bin\Debug\add sub mul.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\bin\Debug\add sub mul.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\bin\Debug\add sub mul.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\obj\Debug\add sub mul.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\obj\Debug\add sub mul.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\obj\Debug\add_sub_mul.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\obj\Debug\add_sub_mul.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\obj\Debug\add sub mul.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\obj\Debug\add sub mul.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\obj\Debug\add sub mul.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\add sub mul\add sub mul\obj\Debug\add sub mul.pdb
