@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\bin\Debug\2.bank class.exe.config
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\bin\Debug\2.bank class.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\bin\Debug\2.bank class.pdb
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\obj\Debug\2.bank class.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\obj\Debug\2.bank class.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\obj\Debug\_2.bank_class.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\obj\Debug\_2.bank_class.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\obj\Debug\2.bank class.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\obj\Debug\2.bank class.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\obj\Debug\2.bank class.exe
+C:\Users\GAYATRI\Desktop\windows form\assigment\Windows classes\2.bank class\2.bank class\obj\Debug\2.bank class.pdb
