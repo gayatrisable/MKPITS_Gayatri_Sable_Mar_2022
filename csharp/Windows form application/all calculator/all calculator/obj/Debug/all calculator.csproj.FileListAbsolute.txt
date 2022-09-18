@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\bin\Debug\all calculator.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\bin\Debug\all calculator.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\bin\Debug\all calculator.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\obj\Debug\all calculator.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\obj\Debug\all calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\obj\Debug\all_calculator.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\obj\Debug\all_calculator.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\obj\Debug\all calculator.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\obj\Debug\all calculator.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\obj\Debug\all calculator.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\all calculator\all calculator\obj\Debug\all calculator.pdb
