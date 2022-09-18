@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\bin\Debug\2d array of 2 rows and 2 columns.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\bin\Debug\2d array of 2 rows and 2 columns.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\bin\Debug\2d array of 2 rows and 2 columns.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\obj\Debug\2d array of 2 rows and 2 columns.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\obj\Debug\2d array of 2 rows and 2 columns.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\obj\Debug\_2d_array_of_2_rows_and_2_columns.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\obj\Debug\_2d_array_of_2_rows_and_2_columns.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\obj\Debug\2d array of 2 rows and 2 columns.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\obj\Debug\2d array of 2 rows and 2 columns.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\obj\Debug\2d array of 2 rows and 2 columns.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2d array of 2 rows and 2 columns\2d array of 2 rows and 2 columns\obj\Debug\2d array of 2 rows and 2 columns.pdb
