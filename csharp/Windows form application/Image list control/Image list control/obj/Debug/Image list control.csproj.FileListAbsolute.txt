@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\bin\Debug\Image list control.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\bin\Debug\Image list control.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\bin\Debug\Image list control.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\obj\Debug\Image list control.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\obj\Debug\Image list control.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\obj\Debug\Image_list_control.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\obj\Debug\Image_list_control.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\obj\Debug\Image list control.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\obj\Debug\Image list control.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\obj\Debug\Image list control.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Image list control\Image list control\obj\Debug\Image list control.pdb
