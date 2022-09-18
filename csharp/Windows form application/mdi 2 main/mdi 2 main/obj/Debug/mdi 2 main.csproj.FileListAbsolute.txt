@@ -1,0 +1,14 @@
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\bin\Debug\mdi 2 main.exe.config
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\bin\Debug\mdi 2 main.exe
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\bin\Debug\mdi 2 main.pdb
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi 2 main.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi 2 main.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi_2_main.Account_Form.resources
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi_2_main.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi_2_main.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi_2_main.Register_form.resources
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi_2_main.Registration_Form.resources
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi 2 main.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi 2 main.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi 2 main.exe
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi 2 main\mdi 2 main\obj\Debug\mdi 2 main.pdb
