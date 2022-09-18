@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\bin\Debug\Menu strip.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\bin\Debug\Menu strip.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\bin\Debug\Menu strip.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\obj\Debug\Menu strip.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\obj\Debug\Menu strip.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\obj\Debug\Menu_strip.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\obj\Debug\Menu_strip.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\obj\Debug\Menu strip.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\obj\Debug\Menu strip.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\obj\Debug\Menu strip.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Menu strip\Menu strip\obj\Debug\Menu strip.pdb
