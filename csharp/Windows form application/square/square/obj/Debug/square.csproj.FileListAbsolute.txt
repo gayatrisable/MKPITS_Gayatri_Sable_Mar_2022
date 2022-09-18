@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\bin\Debug\square.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\bin\Debug\square.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\bin\Debug\square.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\obj\Debug\square.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\obj\Debug\square.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\obj\Debug\square.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\obj\Debug\square.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\obj\Debug\square.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\obj\Debug\square.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\obj\Debug\square.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\square\square\obj\Debug\square.pdb
