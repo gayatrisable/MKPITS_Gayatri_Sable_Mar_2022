@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\bin\Debug\addition substrction calculator.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\bin\Debug\addition substrction calculator.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\bin\Debug\addition substrction calculator.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\obj\Debug\addition substrction calculator.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\obj\Debug\addition substrction calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\obj\Debug\addition_substrction_calculator.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\obj\Debug\addition_substrction_calculator.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\obj\Debug\addition substrction calculator.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\obj\Debug\addition substrction calculator.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\obj\Debug\addition substrction calculator.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\addition substrction calculator\addition substrction calculator\obj\Debug\addition substrction calculator.pdb
