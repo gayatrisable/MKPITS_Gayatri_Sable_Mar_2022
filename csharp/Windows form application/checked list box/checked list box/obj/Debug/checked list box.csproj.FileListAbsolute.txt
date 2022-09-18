@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\bin\Debug\checked list box.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\bin\Debug\checked list box.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\bin\Debug\checked list box.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\obj\Debug\checked list box.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\obj\Debug\checked list box.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\obj\Debug\checked_list_box.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\obj\Debug\checked_list_box.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\obj\Debug\checked list box.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\obj\Debug\checked list box.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\obj\Debug\checked list box.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\checked list box\checked list box\obj\Debug\checked list box.pdb
