@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\bin\Debug\store and display.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\bin\Debug\store and display.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\bin\Debug\store and display.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\obj\Debug\store and display.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\obj\Debug\store and display.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\obj\Debug\store_and_display.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\obj\Debug\store_and_display.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\obj\Debug\store and display.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\obj\Debug\store and display.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\obj\Debug\store and display.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\store and display\store and display\obj\Debug\store and display.pdb
