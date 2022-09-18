@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\bin\Debug\store array and print sum f array.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\bin\Debug\store array and print sum f array.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\bin\Debug\store array and print sum f array.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\obj\Debug\store array and print sum f array.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\obj\Debug\store array and print sum f array.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\obj\Debug\store_array_and_print_sum_f_array.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\obj\Debug\store_array_and_print_sum_f_array.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\obj\Debug\store array and print sum f array.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\obj\Debug\store array and print sum f array.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\obj\Debug\store array and print sum f array.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\store array and print sum f array\store array and print sum f array\obj\Debug\store array and print sum f array.pdb
