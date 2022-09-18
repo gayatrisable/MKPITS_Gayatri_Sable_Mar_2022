@@ -1,0 +1,13 @@
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\bin\Debug\mdi1.exe.config
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\bin\Debug\mdi1.exe
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\bin\Debug\mdi1.pdb
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\obj\Debug\mdi1.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\obj\Debug\mdi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\obj\Debug\mdi1.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\obj\Debug\mdi1.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\obj\Debug\mdi1.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\obj\Debug\mdi1.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\obj\Debug\mdi1.exe
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\obj\Debug\mdi1.pdb
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\obj\Debug\mdi1.register_form.resources
+C:\Users\GAYATRI\Desktop\windows form\mdi file\mdi1\mdi1\obj\Debug\mdi1.account_form.resources
