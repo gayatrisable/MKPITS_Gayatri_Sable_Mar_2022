@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\bin\Debug\ui 1.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\bin\Debug\ui 1.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\bin\Debug\ui 1.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\obj\Debug\ui 1.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\obj\Debug\ui 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\obj\Debug\ui_1.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\obj\Debug\ui_1.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\obj\Debug\ui 1.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\obj\Debug\ui 1.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\obj\Debug\ui 1.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\ui 1\ui 1\obj\Debug\ui 1.pdb
