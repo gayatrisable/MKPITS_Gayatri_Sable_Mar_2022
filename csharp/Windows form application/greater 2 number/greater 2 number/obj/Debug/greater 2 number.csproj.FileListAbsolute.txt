@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\bin\Debug\greater 2 number.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\bin\Debug\greater 2 number.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\bin\Debug\greater 2 number.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\obj\Debug\greater 2 number.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\obj\Debug\greater 2 number.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\obj\Debug\greater_2_number.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\obj\Debug\greater_2_number.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\obj\Debug\greater 2 number.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\obj\Debug\greater 2 number.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\obj\Debug\greater 2 number.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\greater 2 number\greater 2 number\obj\Debug\greater 2 number.pdb
