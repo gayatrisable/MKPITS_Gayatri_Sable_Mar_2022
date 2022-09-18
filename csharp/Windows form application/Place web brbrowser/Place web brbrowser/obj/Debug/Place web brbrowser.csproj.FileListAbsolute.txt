@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\bin\Debug\Place web brbrowser.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\bin\Debug\Place web brbrowser.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\bin\Debug\Place web brbrowser.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\obj\Debug\Place web brbrowser.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\obj\Debug\Place web brbrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\obj\Debug\Place_web_brbrowser.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\obj\Debug\Place_web_brbrowser.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\obj\Debug\Place web brbrowser.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\obj\Debug\Place web brbrowser.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\obj\Debug\Place web brbrowser.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Place web brbrowser\Place web brbrowser\obj\Debug\Place web brbrowser.pdb
