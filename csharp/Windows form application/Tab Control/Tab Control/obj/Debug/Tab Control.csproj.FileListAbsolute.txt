@@ -1,0 +1,12 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\bin\Debug\Tab Control.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\bin\Debug\Tab Control.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\bin\Debug\Tab Control.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\obj\Debug\Tab Control.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\obj\Debug\Tab Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\obj\Debug\Tab_Control.form_2.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\obj\Debug\Tab_Control.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\obj\Debug\Tab_Control.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\obj\Debug\Tab Control.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\obj\Debug\Tab Control.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\obj\Debug\Tab Control.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\UI control\Tab Control\Tab Control\obj\Debug\Tab Control.pdb
