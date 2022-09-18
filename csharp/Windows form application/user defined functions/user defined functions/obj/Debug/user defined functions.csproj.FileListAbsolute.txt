@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\bin\Debug\user defined functions.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\bin\Debug\user defined functions.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\bin\Debug\user defined functions.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\obj\Debug\user defined functions.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\obj\Debug\user defined functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\obj\Debug\user_defined_functions.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\obj\Debug\user_defined_functions.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\obj\Debug\user defined functions.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\obj\Debug\user defined functions.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\obj\Debug\user defined functions.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\function\user defined functions\user defined functions\obj\Debug\user defined functions.pdb
