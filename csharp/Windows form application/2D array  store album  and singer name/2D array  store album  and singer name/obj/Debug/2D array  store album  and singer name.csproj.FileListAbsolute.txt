@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\bin\Debug\2D array  store album  and singer name.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\bin\Debug\2D array  store album  and singer name.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\bin\Debug\2D array  store album  and singer name.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\obj\Debug\2D array  store album  and singer name.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\obj\Debug\2D array  store album  and singer name.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\obj\Debug\_2D_array__store_album__and_singer_name.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\obj\Debug\_2D_array__store_album__and_singer_name.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\obj\Debug\2D array  store album  and singer name.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\obj\Debug\2D array  store album  and singer name.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\obj\Debug\2D array  store album  and singer name.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\array\2D array  store album  and singer name\2D array  store album  and singer name\obj\Debug\2D array  store album  and singer name.pdb
