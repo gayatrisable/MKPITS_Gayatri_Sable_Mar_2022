@@ -1,0 +1,11 @@
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\bin\Debug\addition of two number.exe.config
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\bin\Debug\addition of two number.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\bin\Debug\addition of two number.pdb
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\obj\Debug\addition of two number.csproj.AssemblyReference.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\obj\Debug\addition of two number.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\obj\Debug\addition_of_two_number.Form1.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\obj\Debug\addition_of_two_number.Properties.Resources.resources
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\obj\Debug\addition of two number.csproj.GenerateResource.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\obj\Debug\addition of two number.csproj.CoreCompileInputs.cache
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\obj\Debug\addition of two number.exe
+C:\Users\GAYATRI\Desktop\windows form\class pratice\addition of two number\addition of two number\obj\Debug\addition of two number.pdb
