@@ -1,0 +1,12 @@
+create table users3(useid int primary key,username varchar(20),userpass varchar(30),useremailid varchar(20),usergender varchar(56),usercity varchar(50), country varchar(78))
+insert into users3 values(21,'Ram','ram123','ram@123','male','Nagpur','India')
+insert into users3 values(65,'Gayatri','Gayatri123','gayatri@123','female','Nagar','India')
+insert into users3 values(45,'om','Om123','om@123','male','Thane','India')
+insert into users3 values(98,'mina','mina123','mina@123','female','Nagpur','India')
+insert into users3 values(99,'Neha','neha123','neha@123','female','Delhi','India')
+insert into users3 values(22,'nikita','nikita123','nikita@123','female','nagpur','India')
+insert into users3 values(23,'amit','amit123','amit@123','male','Mumbai','India')
+insert into users3 values(25,'mona','mona123','mona@123','female','Bhopal','India')
+insert into users3 values(29,'Riya','riya123','riya@123','female','Pune','India')
+insert into users3 values(20,'Radhika','Radhika123','radhika@123','female','Nagpur','India')
+select*from users3
